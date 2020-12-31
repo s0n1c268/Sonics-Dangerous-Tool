@@ -1,0 +1,2 @@
+This is my dangerous tool. Can be used to take down networks/websites. I am not responsible for your guys actions, I made this for educational purposes. Have fun. 
+Thanks to NeuralNine for tutorial on the DDos. https://www.neuralnine.com/code-a-ddos-script-in-python/
